@@ -1,0 +1,31 @@
+$primary-color: #82C686;
+$secondary-color:#415D43;
+$tertiary-color:#B8D0EB;
+$tab-color:#A4D0A8;
+$progress-color:#279AF1;
+$background: rgba(#659B5E,0.3);
+$font-stack: Dosis, Helvetica, sans-serif;
+body {
+  font: 100% $font-stack;
+  background-color: $background;
+  background-size: cover;
+}
+.navbar, .navbar-brand, .navbar-toggler {
+  background: $secondary-color;
+  color:white;
+}
+.btn {
+  background: $tab-color;
+}
+.btn-primary {
+  background: $secondary-color;
+}
+.badge {
+  font: 100% Helvetica, sans-serif;
+}
+.details, .edit, #addnew {
+  background: $tertiary-color;
+}
+.progress-bar{
+  background: $progress-color;
+}

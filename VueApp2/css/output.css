@@ -1,0 +1,32 @@
+body {
+  font: 100% Dosis, Helvetica, sans-serif;
+  background-color: rgba(101, 155, 94, 0.3);
+  background-size: cover;
+}
+
+.navbar, .navbar-brand, .navbar-toggler {
+  background: #415D43;
+  color: white;
+}
+
+.btn {
+  background: #A4D0A8;
+}
+
+.btn-primary {
+  background: #415D43;
+}
+
+.badge {
+  font: 100% Helvetica, sans-serif;
+}
+
+.details, .edit, #addnew {
+  background: #B8D0EB;
+}
+
+.progress-bar {
+  background: #279AF1;
+}
+
+/*# sourceMappingURL=output.css.map */
